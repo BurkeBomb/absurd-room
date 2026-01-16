@@ -2,5 +2,8 @@
 .next/
 out/
 dist/
-.env*
 *.log
+.env
+.env.local
+.env*
+
